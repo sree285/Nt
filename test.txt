@@ -1,1 +1,3 @@
-test folder is created
+to check
+first line java
+second line c++
